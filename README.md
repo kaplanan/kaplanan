@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, it's @kaplanan
+
+- 😄 Pronouns: He/Him
+- 🧑🏻‍💻 I'm working on some very special, private projects that help users and engineers to make their products better every day
+- 🌱 I'm also learning the peaks and perks of Kotlin
+- 👀 I'm interested in Web Development, UX Design and (Cloud) Software Architecture
+- 👯 I would love to kickstart my own tech blog or collaborate on yours to get valuable insights
+- 📫 Drop me a message on my [linkedin](https://www.linkedin.com/in/ayhan-kaplan/)
 
 <!--
 **kaplanan/kaplanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
