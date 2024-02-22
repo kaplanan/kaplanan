@@ -1,10 +1,11 @@
 ### 👋 Hi there, it's @kaplanan
 
 - 🖤 Pronouns: He/Him
-- 🧑🏻‍💻 Freelancing on some very special, private projects that help customers and engineers to make their experience better every day
-- 👀 I'm interested in Web Development, UX Design and (Cloud) Software Architecture, especially in forming Serverless solutions for recurring problems
+- 🧑🏻‍💻 Expert for onboarding global services to China Mainland, working on some products to support emerging industries
+- 👀 I'm interested in Web Development, UX Design and (Cloud) Software Architecture, especially for globally distributed service ecosystems
 - 📫 Drop me a message on my [linkedin](https://www.linkedin.com/in/ayhan-kaplan/) or [email](mailto:ayhan@kaplantech.net)
 - 🌍 https://kaplantech.net
+- 📽️ https://www.youtube.com/@ayhantalks
 
 <!--
 **kaplanan/kaplanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
