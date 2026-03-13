@@ -3,7 +3,7 @@
 Software engineer and content creator passionate about tech, hacks, and investigative tech storytelling
 
 - 🖤 Pronouns: He/Him
-- 🧑🏻‍💻 Expert for onboarding global services to China Mainland, working on some products to support emerging industries
+- 🧑🏻‍💻 Expert for Identity and Access Management in Large Scale Systems
 - 📫 Drop me a message on my [linkedin](https://www.linkedin.com/in/ayhan-kaplan/) or [email](mailto:ayhan@kaplantech.net)
 - 🌍 https://kaplantech.net
 - 📽️ https://www.youtube.com/@ayhantalks
