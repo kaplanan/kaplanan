@@ -1,17 +1,36 @@
-# 👋 Hi there, it's @kaplanan
-
-Software engineer and content creator passionate about tech, hacks, and investigative tech storytelling
-
+## software engineer • tech lead • content creator • co founder
 - 🖤 Pronouns: He/Him
 - 🧑🏻‍💻 Expert for Identity and Access Management in Large Scale Systems
 - 📫 Drop me a message on my [linkedin](https://www.linkedin.com/in/ayhan-kaplan/) or [email](mailto:ayhan@kaplantech.net)
 - 🌍 https://kaplantech.net
 - 📽️ https://www.youtube.com/@ayhantalks
-- 👀 Currently working on:
-  
 
+<div align="center" style="margin-top: 20px;">
+  <p style="font-weight: bold;">👇 👇 👇 👇 👇 👇 👇 👇 👇</p>
+</div>
 
-## 🚀 BetterThumbnails.app
+## 🧠 dopamate.ai
+<a href="https://dopamate.ai" target="_blank">DopaMate</a> is the first proactive AI sidekick for ADHD entrepreneurs — lives in your messenger, knows your energy, and tells you exactly what to do next, so you stop spinning and start finishing.
+
+<div align="center" style="margin-top: 20px;">
+  <p style="font-weight: bold;">🎯 Your ADHD brain isn't broken. Your tools are.</p>
+  <a href="https://dopamate.ai" target="_blank" style="
+      display: inline-block;
+      padding: 15px 30px;
+      margin: 10px;
+      font-size: 20px;
+      font-weight: bold;
+      color: white;
+      background-color: #FF6F61;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: transform 0.3s ease;
+    " onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    🚀 Try DopaMate For Free
+  </a>
+</div>
+
+## 🚀 betterthumbnails.app
 Let's face it: Your video can be perfect but if no one clicks on the thumbnail, they'll never see it. BetterThumbnails assists content creators in getting the best reach possible with thumbnail raters, script coaches and script timers.
 
 
